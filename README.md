@@ -1,4 +1,5 @@
-# SIR-Model
-### SIR Graph Model for CS355
+# Diffusions Models
+
+### SIR Graph Model
 
 This preliminary project runs a Susceptible-Infected-Recovered contaigon model on an input graph. The progression of the disease can be visualized over time.
