@@ -1,15 +1,22 @@
-# Diffusions Models
+# Graph Diffusions Models
 
-### SI Graph Model
+This project contains four models for contaigon spread on networks. The first three models (SI,SIS,SIR) are standard epidemic models. They are run on a radnomly generated ER graph and produce visualizations of network conditions over time. The fourth model concerns the spread of memes (information) on social networks where agents have limited attention spans.
 
-
-
-### SIS Graph Model
+### Susceptible-Infected Model
 
 
 
-### SIR Graph Model
+### Susceptible-Infected-Susceptible Model
 
-This preliminary project runs a Susceptible-Infected-Recovered contaigon model on an input graph. The progression of the disease can be visualized over time.
 
-### Social Network (Virality) Graph Model
+
+### Susceptible-Infected-Recovered Model
+
+
+### Social Network Model: Memetic Spread Under Limited Attention
+
+This model is based on the one implmented by Weng et.al. in:
+
+```
+L. Weng, A Flammini, A. Vespignani, and F. Menczer. Competition among memes in a world with limited attention. Scientific Reports, 2:335, 2012.
+```
