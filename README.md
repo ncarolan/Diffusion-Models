@@ -4,16 +4,19 @@ This project contains four models for contaigon spread on networks. The first th
 
 ### Susceptible-Infected Model
 
-
+https://github.com/ncarolan/Diffusion-Models/blob/master/si-model.ipynb
 
 ### Susceptible-Infected-Susceptible Model
 
-
+https://github.com/ncarolan/Diffusion-Models/blob/master/sis-model.ipynb
 
 ### Susceptible-Infected-Recovered Model
 
+https://github.com/ncarolan/Diffusion-Models/blob/master/sir-model.ipynb
 
 ### Social Network Model: Memetic Spread Under Limited Attention
+
+https://github.com/ncarolan/Diffusion-Models/blob/master/Attention-Model.ipynb
 
 This model is based on the one implmented by Weng et.al. in:
 
